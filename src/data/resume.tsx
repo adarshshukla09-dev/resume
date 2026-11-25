@@ -35,7 +35,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    {
+      href: "https://adarshshukla.hashnode.dev/",
+      icon: NotebookIcon,
+      label: "Blog",
+    },
   ],
   contact: {
     email: "adarshshukla09887@gmail.com",
